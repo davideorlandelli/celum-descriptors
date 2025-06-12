@@ -1,0 +1,29 @@
+{
+    "id": "Test",
+    "eventSubscriptions": [
+        {
+            "id": "events",
+            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/rad-test-webhook?space=vanilla-reply-production",
+            "eventTypes": [
+                "ASSET_CREATED",
+                "ASSET_ADDED",
+                "ASSET_UPDATED",
+                "ASSET_DELETED",
+                "ASSET_RELEASED",
+                "ASSET_REMOVED",
+                "ASSET_VERSION_ACTIVATED",
+                "ASSET_VERSION_ADDED",
+                "ASSET_VERSION_DELETED",
+                "COLLECTION_CREATED",
+                "COLLECTION_DELETED",
+                "COLLECTION_UPDATED",
+                "COLLECTION_MOVED",
+                "RELATION_CREATED",
+                "RELATION_DELETED",
+                "EXTERNAL_REFERENCE_ADDED",
+                "EXTERNAL_REFERENCE_DELETED",
+                "PREVIEW_CONVERSION"
+            ]
+        }
+    ]
+}
