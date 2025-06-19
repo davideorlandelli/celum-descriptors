@@ -1,9 +1,9 @@
 {
-    "id": "hartmann-uat",
+    "id": "hartmann",
     "eventSubscriptions": [
         {
             "id": "events",
-            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/celum-events?space=uat-hartmann",
+            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/celum-events?space=hartmann",
             "eventTypes": [
                 "ASSET_CREATED",
                 "ASSET_ADDED",
