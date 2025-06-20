@@ -8,7 +8,6 @@
                 "ASSET_CREATED",
                 "ASSET_ADDED",
                 "ASSET_UPDATED",
-                "ASSET_ADDED",
                 "ASSET_VERSION_ADDED",
                 "ASSET_REMOVED"
             ]
