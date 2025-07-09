@@ -9,7 +9,8 @@
                 "ASSET_ADDED",
                 "ASSET_UPDATED",
                 "ASSET_VERSION_ADDED",
-                "ASSET_REMOVED"
+                "ASSET_REMOVED",
+                "COLLECTION_CREATED"
             ]
         }
     ]
