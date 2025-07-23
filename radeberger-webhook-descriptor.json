@@ -1,0 +1,17 @@
+{
+    "id": "radeberger",
+    "eventSubscriptions": [
+        {
+            "id": "events",
+            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/rad-test-webhook?space=radeberger",
+            "eventTypes": [
+                "ASSET_CREATED",
+                "ASSET_ADDED",
+                "ASSET_UPDATED",
+                "ASSET_VERSION_ADDED",
+                "ASSET_REMOVED",
+                "COLLECTION_CREATED"
+            ]
+        }
+    ]
+}
