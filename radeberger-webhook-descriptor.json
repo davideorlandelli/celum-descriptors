@@ -3,7 +3,7 @@
     "eventSubscriptions": [
         {
             "id": "events",
-            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/rad-test-webhook?space=radeberger",
+            "endpoint": "https://vanilla.alumio.com/api/v1/webhook/celum-events?space=radeberger",
             "eventTypes": [
                 "ASSET_CREATED",
                 "ASSET_ADDED",
