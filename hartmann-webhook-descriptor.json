@@ -5,7 +5,8 @@
             "id": "events",
             "endpoint": "https://vanilla.alumio.com/api/v1/webhook/celum-events?space=hartmann",
             "eventTypes": [
-                "ASSET_CREATED"
+                "ASSET_CREATED",
+                "ASSET_RELEASED"
             ]
         }
     ]
